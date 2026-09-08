@@ -1,0 +1,30 @@
+    * {  font-family:  ' Roboto' , 'sans-serif';   
+ padding: 0%;
+margin: 0%;
+box-sizing: border-box;}
+
+ .link 
+    { text-decoration: none;
+    color: black; 
+    font-size: 0,8rem;
+    padding: 1rem;}
+
+.navegacao
+    { display: flex; 
+    justify-content: center; 
+    gap: 1rem;
+    align-items: center;
+    height: 7.5%;
+
+}
+
+.icone
+ { padding: 1rem;}
+
+ .cabecalho {height: 90vh;
+     background-color: rgb(255, 255, 255);}
+ 
+ .carrosel { background-image: url('https://github.com/unifiltech/apple-landing-page/blob/main/apple-event.jpg?raw=true');
+    background-size: cover;
+    background-position: center;
+    height: 92.5%;}
